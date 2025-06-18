@@ -1,0 +1,1 @@
+trained plant disease prediction model link: https://colab.research.google.com/drive/1AKINggbdk4u8fRCu7yYr5IohZa2WvAWP?usp=sharing
