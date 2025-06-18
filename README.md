@@ -1,0 +1,2 @@
+# Plant-Disease-Detection-Using-Image-Processing-and-To-Get-Notified-about-Respective-Remedies
+🌾 Plant Disease Detection Using Image Processing with Remedy Notification and Agricultural Robot Integration  This project leverages Convolutional Neural Networks (CNNs) for early plant disease detection using image processing, paired with remedy notification and smart field monitoring via a custom-built agricultural robot. 
